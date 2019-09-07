@@ -11,7 +11,7 @@ function pendulum(values) {
     let unshift = 0;
     let i = 0
     while(i < values.length){
-        if(push <= unshift){
+    if(push <= unshift){
             arranged.push(Math.min(...values)); //push minimum value at the right
             temp = values.splice(values.indexOf(Math.min(...values)), 1) //remove the pushed value from the array
             push++
