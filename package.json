@@ -1,0 +1,19 @@
+{
+  "name": "psackage",
+  "version": "1.0.0",
+  "description": "my codeWars javascript algorithm challenge practice repo. contains both 8 and 7 kyu difficulty, in almost all kata tags, ranging from algorithms, data type, logic, numbers, string arrays",
+  "main": "bonAppetit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shimele/JS-Pactice-Algorithms-Codewars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shimele/JS-Pactice-Algorithms-Codewars/issues"
+  },
+  "homepage": "https://github.com/Shimele/JS-Pactice-Algorithms-Codewars#readme"
+}
