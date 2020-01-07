@@ -12,6 +12,7 @@ The function should return an array of numbers that are a power of 2 (2^x = y).
 Each member of the returned array should be unique. (eg: the valid answer for powers(2) is [2], not [1, 1])
 
 Members should be sorted in ascending order (small -> large). (eg: the valid answer for powers(6) is [2, 4], not [4, 2])*/
+
 const powers = n => {
     if (n == 1) return [1]
     let all_powers = []
