@@ -15,4 +15,8 @@ function descendingOrder(n){
     }
     return +sorted.join('')
   }
+//alternative
+  function descendingOrder(n){
+    return parseInt(String(n).split('').sort().reverse().join(''))
+  }
 
